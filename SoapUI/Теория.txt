@@ -1,0 +1,1 @@
+Web-сервисы - это один из механизмов платформы, используемых дл€ интеграции с другими информационными системами. ¬ызываютс€ удаленно по сети посредством стандартизированных XML сообщений »спользуемые протоколы Х SOAP (Simple Object Access Protocol) Х REST (Representational State Transfer) Х XML-RPC (Extensible Markup Language Remote Procedure Call)
